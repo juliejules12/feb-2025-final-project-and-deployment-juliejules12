@@ -1,0 +1,22 @@
+# February 2025 Final Project – AI Engineer Blog
+
+A multipage website showcasing Juliet Ayesa's blog and insights on AI engineering.
+
+## Features:
+- **Home Page**: Welcome page introducing the blog and its purpose.
+- **About Page**: A detailed description of Juliet Ayesa's background as an AI Engineer.
+- **Contact Page**: A form to contact Juliet, with form validation using JavaScript.
+
+## Technologies Used:
+- **HTML5**: For creating the structure of the website.
+- **CSS3**: For styling and making the website responsive.
+- **JavaScript**: For adding interactivity, such as form validation.
+
+## How to Access:
+- **Live Website**: [https://juliejules12.github.io/feb-2025-final-project-and-deployment-juliejules12/](https://juliejules12.github.io/feb-2025-final-project-and-deployment-juliejules12/)
+- **GitHub Repository**: [https://github.com/juliejules12/feb-2025-final-project-and-deployment-juliejules12](https://github.com/juliejules12/feb-2025-final-project-and-deployment-juliejules12)
+
+## How to Run Locally:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/juliejules12/feb-2025-final-project-and-deployment-juliejules12.git
